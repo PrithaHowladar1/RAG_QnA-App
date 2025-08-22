@@ -19,7 +19,7 @@ except RuntimeError:
 nest_asyncio.apply()
 
 
-GOOGLE_API_KEY = "AIzaSyBkqrTtEd7gtBMrOMEd11g9DwVv3lUa2_Y"
+GOOGLE_API_KEY = "your-key-here"
 
 # Initialize Gemini LLM and Embeddings
 llm_model = ChatGoogleGenerativeAI(
