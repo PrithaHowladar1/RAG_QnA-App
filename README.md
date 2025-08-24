@@ -2,13 +2,13 @@ Retrieval-Augmented Generation (RAG) Q&A app , powered by Google Gemini and Lang
 Seamlessly upload any PDF, DOCX, or TXT file and unlock deep insights based on your question.
 
 🧠 Tech Stack
-| Layer | Technology | 
-| LLM | Google Gemini 1.5 Flash | 
-| Embeddings | Gemini Embedding-001 | 
-| Framework | LangChain | 
-| UI | Streamlit | 
-| Vector Store | FAISS | 
-| File Support | PDF, DOCX, TXT | 
+- LLM – Google Gemini 1.5 Flash
+- Embeddings – Gemini Embedding-001
+- Framework – LangChain
+- UI – Streamlit
+- Vector Store – FAISS
+- File Support – PDF, DOCX, TXT
+
 
 
 ✨ Features
